@@ -1,6 +1,6 @@
-# Ayesharepository2
+# Shaikh Ayesha Eshtiyaq | Technical Writer
 
- Shaikh Ayesha Eshtiyaq — Technical Writer. I help software teams write documentation their users actually read. 
+Shaikh Ayesha Eshtiyaq — Technical Writer. I help software teams write documentation their users actually read. 
 
 **What I write:** API references, developer guides, SDK docs, release notes, onboarding tutorials 
 
